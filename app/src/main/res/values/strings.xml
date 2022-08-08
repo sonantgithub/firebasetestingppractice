@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebasetesting</string>
+
+    <string name="pdfstring">sample.pdf</string>
+
+    <string name="edittext1">field is empty</string>
+    <string name="edittext2">Invalid email address</string>
+    <string name="edittext3">enter value in email</string>
+
+
+</resources>
